@@ -1,0 +1,82 @@
+**Cognitive Systems Lab – Denosian Front Simulation Report**
+Project Code: DF-07/28-UXM
+Classification: Training Exercise / Behavioral Mapping Study 
+37°48′N //
+
+*1. Scenario Brief*
+
+The Denosian Front simulation modeled a fragmented continental conflict where three
+primary factions — Northern Denos, Southern Denos, and the Coastal League — contested
+over diminishing supply chains. The simulation map included dense mountain ranges, arid
+desert corridors, and limited maritime chokepoints.
+
+The key operational challenge: sustaining momentum under prolonged attrition while 
+defending against logistical bleed through disrupted supply nodes. //
+
+*2. Purpose of Excercise*
+
+This run was conducted to evaluate the integration of cognitive mapping with multi-domain
+disruption modeling. 
+
+Primary objectives:
+• Identify early indicators of logistical collapse in asymmetric engagements.
+• Map behavioral tendencies of faction leadership under sustained pressure.
+• Test predictive routing for supply convoys under shifting threat envelopes. //
+
+*3. Initial Hypothesis* 
+
+Prior to the run, analysts predicted:
+
+1. Northern Denos would maintain control of high-ground corridors but gradually lose 
+operational tempo due to attrition in fuel and rations.
+
+2. Southern Denos would leverage heavier equipment but remain vulnerable to targeted
+supply strikes.
+
+3. Coastal League would overextend maritime assets and face inland penetration from 
+multiple fronts. // 
+
+*4. Simulation Design*
+
+• Agent Profiles: Each faction’s leadership and field units were coded with distinct 
+behavioral probability curves derived from prior simulated conflicts.
+• Event Stream: Over 400 sequential operational events were generated — from ambushes 
+to cyber interdictions — each triggering adaptive responses. 
+• Cognitive Layer: The sim logged not only moves made, but decision latency and pattern
+shifts in leadership styles as conditions worsened.
+• Logistics Model: Every movement of supplies was tagged and stress-tested for interdiction, 
+rerouting, and black-market leakage. // 
+
+*5. Observations & Outcomes*
+
+1. Behavioral Drift Detected: Leadership in all factions showed measurable drift toward risk-
+averse decision-making after 17 days of sustained disruption. 
+
+2. Logistical Collapse Curve: Supply losses exceeding 22% per cycle triggered cascading 
+morale drops and unplanned withdrawals in 68% of cases.
+
+3. Adaptive Evasion: Northern Denos successfully trialed deceptive convoy routing, 
+achieving a 40% survivability increase over baseline predictions. 
+
+4. Urban Black-Market Nodes: Emerged spontaneously in Coastal League territory, creating 
+secondary logistical bleed vectors not present in baseline. // 
+
+*6. After Action Review*
+
+Key lessons from DF-07/28-UXM:
+• Early choke-point disruption in mountainous corridors yields disproportionate 
+operational collapse.
+• Behavioral probability mapping offers predictive lead time on faction-level strategic withdrawals. 
+• Hybrid disruption (physical + cognitive) is more effective than pure kinetic or pure informational attacks.
+
+Next phase recommendation: integrate real-time data ingestion from operational theaters to increase predictive accuracy during live deployments. //
+
+*7. Analyst Note* 
+
+Patterns observed in Denosian Front mirror prior cognitive mapping runs against non-
+simulated leadership cells exhibiting decentralized command. The emergent interplay
+between logistical degradation and decision fatigue remains a primary vulnerability vector.
+Further integration with signal artifacts is advised.
+
+
+— Field Unit 28 | Denosian Theatre | From the Quiet Front | 122°16′W
